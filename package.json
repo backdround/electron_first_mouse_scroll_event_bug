@@ -1,0 +1,13 @@
+{
+  "name": "electron_first_mouse_scroll_event_bug",
+  "version": "1.0.0",
+  "repository": "backdround/electron_first_mouse_scroll_event_bug",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx electron app.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron-nightly": "^13.0.0-nightly.20201126"
+  }
+}
